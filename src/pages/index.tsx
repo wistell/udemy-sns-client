@@ -1,5 +1,5 @@
-import Timeline from "./components/Timeline";
 import Head from "next/head";
+import Timeline from "../components/Timeline";
 
 export default function Home() {
   return (
